@@ -4,7 +4,7 @@
   </a>
 
   <h3 align="center">Email Crawler and Lead generator in python</h3>
-![image](https://media.giphy.com/media/VGtDkE48N9WtMnqQiV/giphy.gif)
+! [image](https://media.giphy.com/media/VGtDkE48N9WtMnqQiV/giphy.gif)
   <p align="center">
     This crawler takes an webaddress as input and then extracts all emails from that website by sequentially visiting every url in that domain.
     <br />
