@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Crawler Demo](https://snipboard.io/Ba9Ing.jpg)
+![Crawler Demo](https://media.giphy.com/media/VGtDkE48N9WtMnqQiV/giphy.gif)
 
 
 The Email Crawler makes sure that it only visits the urls in same domain and doesnot save duplicate emails.It also keeps the log of urls visited and dumps them at the end of crawling
