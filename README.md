@@ -4,8 +4,8 @@
   </a>
 
   <h3 align="center">Email Crawler and Lead generator in python</h3>
-![Demo](https://snipboard.io/Ba9Ing.jpg)
-  <p align="center">
+<img src="https://snipboard.io/Ba9Ing.jpg"></img>
+<p align="center">
     This crawler takes an webaddress as input and then extracts all emails from that website by sequentially visiting every url in that domain.
     <br />
     <a href="https://github.com/nOOBIE-nOOBIE/Email-Crawler-Lead-Generator"></a>
