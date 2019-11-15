@@ -69,8 +69,15 @@ To get a local copy up and running follow these simple steps.
 git clone https://github.com/nOOBIE-nOOBIE/Email-Crawler-Lead-Generator.git
 ```
 2. Install dependencies
+
 ```sh
 pip install -r requirements.txt
+```
+
+If you have python2 and python3 both installed. You might need to do.
+
+```sh
+pip3 install -r requirements.txt
 ```
 
 
@@ -81,6 +88,11 @@ pip install -r requirements.txt
 Simply pass the url as an argument
 ```sh
 python email_crawler.py https://medium.com/
+```
+
+If you have python2 and python3 both installed. You might need to do.
+```sh
+python3 email_crawler.py https://medium.com/
 ```
 
   ### Output
