@@ -19,7 +19,7 @@
   </p>
 </p>
 
-### [Old version without duplicate handling, no multithreading and memory management.](https://github.com/amitupreti/Email-Crawler-Lead-Generator/tree/old)
+##### [Old version without duplicate handling, no multithreading and memory management.](https://github.com/amitupreti/Email-Crawler-Lead-Generator/tree/old)
 
 
 <!-- TABLE OF CONTENTS -->
